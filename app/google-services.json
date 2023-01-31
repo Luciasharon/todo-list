@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575097158347",
+    "project_id": "your-daily-todo-list",
+    "storage_bucket": "your-daily-todo-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575097158347:android:d54b6b952221bfec69f94e",
+        "android_client_info": {
+          "package_name": "com.specialapps.hitodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575097158347-1foqgbofmgl60mcde06i850785fch5he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA0-QEjs_7A2XVN7ztrx5zniMzeCbcSzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575097158347-1foqgbofmgl60mcde06i850785fch5he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
